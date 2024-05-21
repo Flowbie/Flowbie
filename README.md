@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flowbie
 - 👀 I’m interested in software development/ai/security/web scraping/game development
-- 🌱 I’m currently learning python/java/pygame/pyscript/django/git/ServiceNow
+- 🌱 I’m currently learning python/java/javascript/pygame/pyscript/django/ServiceNow
 - 💞️ I’m looking to collaborate on projects to help me grow as a developer
 - 📫 How to reach me twitter @haolehawaiian_ ig: @barrelshawaii
 
